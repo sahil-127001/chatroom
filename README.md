@@ -1,8 +1,6 @@
 # C++ Sockets - Simple server and client chat (linux)
 
-A simple socket programming which creates a connection between two terminals on linux. This was my second semester final project, so I thought I'll share with you.
-
-]
+A simple socket programming which creates a connection between two terminals on linux. 
 # Requirements
 
 1. min Ubuntu 12.0 LTS or higher
